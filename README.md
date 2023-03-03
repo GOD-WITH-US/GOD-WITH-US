@@ -20,3 +20,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=god-with-us&show_icons=true&locale=en&layout=compact" alt="god-with-us" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=god-with-us&show_icons=true&locale=en" alt="god-with-us" /></p>
+
+<p align="center">
+    <img align="center" src="[https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif](https://www.aaditritechnology.com/images/abtus.gif)">
+</p>
