@@ -21,7 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=god-with-us&show_icons=true&locale=en" alt="god-with-us" /></p>
 
-<p align="center">
-    <img align="center" src="https://miro.medium.com/v2/resize:fit:828/1*nCpfU7AD35VLsljEvbVfSw.gif">
-</p>
+
 
